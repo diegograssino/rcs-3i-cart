@@ -1,0 +1,22 @@
+/* 
+Light: F6FBF4
+yellow: F5DF99
+lightgreen: 5FD068
+green: 4B8673 
+ */
+
+:root {
+  --white: #f6fbf4;
+  --yellow: #f5df99;
+  --green: #5fd068;
+  --dark-green: #4b8673;
+}
+
+body {
+  font-family: 'Exo 2', sans-serif;
+  background-color: var(--white);
+}
+
+.bg-dark-green {
+  background-color: var(--dark-green);
+}
